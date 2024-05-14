@@ -1,4 +1,5 @@
-Meu nome é Taís Alexandre
+**Bem Vindo ao meu Perfil 🤍**
+#Meu nome é **Taís Alexandre**
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
